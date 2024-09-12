@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Youthful greetings, NavoYouth!
+
+Alam mo ba na ayon sa mandato ng Republic Act No. 10742 o Sangguniang Kabataan
+ Reform Act of 2015 ay kinakailangang magsagawa ng bawat Sangguniang Kabataan 
+Profiling? Ngunit, ano nga ba ang Katipunan ng Kabataan Profiling? Sino-sino ang 
+maaaring makibahagi rito?
+
+Ang Katipunan ng Kabataan Profiling o KK Profiling ay pangangalap ng mga 
+impormasyon sa mga miyembro ng Katipunan ng Kabataan. Ang mga datos at 
+impormasyon na ibibigay ng mga Katipunan ng Kabataan ay gagawing basehan sa mga 
+programa, proyekto, at mga gawaing pang-kabataan na bubuuin ng Sangguniang 
+Kabataan Council. Gayundin ay ipapasa ang mga ito sa National Youth Commission para 
+sa kanilang Database Management. 
+
+Ayon pa rin sa Republic Act No. 10742, ang Katipunan ng Kabataan ay tumutukoy sa mga 
+kabataang may edad 15 hanggang 30 na rehistrado sa tala ng Commission on Elections 
+(COMELEC) at/o bahagi ng records ng Sangguniang Kabataan Secretary.
+
+Isa ka ba sa mga kabataang bumubuo ng Katipunan ng Kabataan? Kung ang sagot mo 
+ay "Oo", tara g! Sagutan na natin ang Katipunan ng Kabataan Profile Sheet!</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>KATIPUNAN NG KABATAAN PROFILING INFORMED CONSENT
+Consulting Agency: National Youth Commission (NYC) Quezon City
+
+Purpose
+
+The profiling aims to gather the information and data of the Katipunan ng Kabataan (KK) 
+members. The information gathered in the profiling will be stored in the upcoming SK 
+Portal and will only be used for database management handled by the National Youth 
+Commission.
+
+Terms and Duration of Participation
+
+You are asked to join the study as a participant in the KK Profiling. The data will serve as 
+an updated National database of the Katipunan ng Kabataan members in the country.
+
+Risks/Confidentiality
+
+Your participation in the study will be treated with the utmost confidentiality. Any 
+information collected will be used in database management. Also, your safety is our
+primary concern. The profiling ensures that there will be no risk encountered during 
+data collection.
+
+Compensation
+
+The activity is in accordance with RA No. 10742 and the policies and guidelines of the 
+Department of Interior and Local Government and the National Youth Commission. 
+There will be no monetary remuneration other than our sincerest gratitude for your time 
+and effort. Your participation will be highly appreciated.</value>
+  </data>
+</root>

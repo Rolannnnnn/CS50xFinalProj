@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SK", "SK\SK.vbproj", "{C1183F1B-3406-4BC2-8CFB-19FD495747DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD8A341D-303F-4E62-8BED-31C8B8C07CF2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SKsetup", "SKsetup\SKsetup.vdproj", "{36840A07-6F8B-4752-8E86-BBEBE4ED2226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1183F1B-3406-4BC2-8CFB-19FD495747DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1183F1B-3406-4BC2-8CFB-19FD495747DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1183F1B-3406-4BC2-8CFB-19FD495747DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1183F1B-3406-4BC2-8CFB-19FD495747DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36840A07-6F8B-4752-8E86-BBEBE4ED2226}.Debug|Any CPU.ActiveCfg = Debug
+		{36840A07-6F8B-4752-8E86-BBEBE4ED2226}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F6CE98-A932-4D7A-9A01-B4A01EC69B22}
+	EndGlobalSection
+EndGlobal
